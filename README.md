@@ -10,3 +10,8 @@ This is for demo of coursera MLops course.
 ##Modeling
 
 ##conclusion 
+
+
+## My colab notebook
+
+* [Run the notebook](https://github.com/urwithajit9/datascience-coursera-demo/blob/main/coursera_datascience_MLops.ipynb)
